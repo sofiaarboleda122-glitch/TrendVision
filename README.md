@@ -1,3 +1,1 @@
-hdjdjdjjdjsDaros generales de grupo 
-jajHjabJja
-soy sofi 
+aca va el guion 
