@@ -13,7 +13,7 @@ Gemini: Estructuración y apoyo en la redacción del guion técnico y visión po
 
 CapCut: Edición de video, montaje de clips individuales, sincronización de audio y generación de subtitulos<BR>
 
-ESTRUCTURRA DEL GION POR PLANOS
+ESTRUCTURA DEL GION POR PLANOS
 
 PLANO 1: Introducción
 
