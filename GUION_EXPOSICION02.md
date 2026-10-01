@@ -6,10 +6,12 @@ INTEGRANTES Y CARRERAS
 5. Daniel - Negocios Internacionales
    
 GUION EXPOSICION LA QUINTA REVOLUCION INDUSTRIAL
+
 DECLARACIÓN DE USO DE HERRAMIENTAS E IA: Para la realización de este trabajo académico se utilizaron las siguientes herramientas. 
 Gemini: Estructuración y apoyo en la redacción del guion técnico y visión por carreras.
 CapCut: Edición de video, montaje de clips individuales, sincronización de audio y generación de subtitulos<BR>
 ESTRUCTURRA DEL GION POR PLANOS
+
 PLANO 1: Introducción
 Habla: Valerie
 Durante 4 revoluciones industriales, la energía movió el trabajo. Hoy, la inteligencia artificial no solo ejecuta: toma decisiones por nosotros<BR>
