@@ -4,6 +4,7 @@ INTEGRANTES Y CARRERAS
 3. Hadamarys - Mercadeo y Estrategia Comercial
 4. Jaime - Ingeniería de Sistemas
 5. Daniel - Negocios Internacionales
+   
 GUION EXPOSICION LA QUINTA REVOLUCION INDUSTRIAL
 DECLARACIÓN DE USO DE HERRAMIENTAS E IA: Para la realización de este trabajo académico se utilizaron las siguientes herramientas. 
 Gemini: Estructuración y apoyo en la redacción del guion técnico y visión por carreras.
