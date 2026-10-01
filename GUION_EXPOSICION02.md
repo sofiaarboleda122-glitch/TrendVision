@@ -13,15 +13,20 @@ Gemini: Estructuración y apoyo en la redacción del guion técnico y visión po
 
 CapCut: Edición de video, montaje de clips individuales, sincronización de audio y generación de subtitulos<BR>
 
-ESTRUCTURA DEL GION POR PLANOS
+ESTRUCTURA DEL GUION POR PLANOS
 
 PLANO 1: Introducción
 
 Habla: Valerie
 
-Durante 4 revoluciones industriales, la energía movió el trabajo. Hoy, la inteligencia artificial no solo ejecuta: toma decisiones por nosotros<BR>
+Referencia Visual: Imagen fotorealista cinematográfica, seguida de imagenes sueltas que den alución a lo que se está presentando, combinando estilos de imagenes antiguas con modernas
+
+"Durante 4 revoluciones industriales, la energía movió el trabajo. Hoy, la inteligencia artificial no solo ejecuta: toma decisiones por nosotros"<BR>
 
 PLANO 2:
+
+
+
 
 
 
@@ -32,7 +37,11 @@ PLANO 6: Propuesta para la quinta revolución
 
 Habla: Valerie
 
-Nuestra propuesta para la quinta revolución es la Simbiosis Sostenible: la tecnología no debe reemplazar al humano, sino potenciar su bienestar
+Referencia Visual: Transición limpia y breve, uso de alguna imagen ilustrativa para captar más la atención
+
+"Nuestra propuesta para la quinta revolución es la Simbiosis Sostenible: la tecnología no debe reemplazar al humano, sino potenciar su bienestar"
+
+
 
 
 
@@ -43,3 +52,13 @@ Mercadeo y Estrategia Comercial
 
 1. Revolución (Vapor): La producción era local y artesanal. Se vendía por recomendacciones boca a boca o carteles impresos sencillos
 2. Revolución (Electricidad): Nace el consumo masivo con la producción en serie y la publicidad formal en radio, periódicos y vallas
+3. Revolución (Electrónica): Aparece el marketing digital, internet y las primeras bases de datos de clientes
+4. Revolución (Digital): Automatización, redes sociales, análisis de Big Data y algoritmos de segmentación
+5. Revolución 
+
+
+
+
+
+
+
