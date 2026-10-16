@@ -1,1 +1,1 @@
-TrendVision Hadamarys Beltran, Daniel Castellanos, Jaime Ortis, Valerie Castaño y Sofia Arboleda 
+1. TrendVision Hadamarys Beltran, Daniel Castellanos, Jaime Ortis, Valerie Castaño y Sofia Arboleda 
