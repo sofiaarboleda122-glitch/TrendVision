@@ -1,0 +1,69 @@
+<mxGraphModel dx="1762" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="pool" parent="1" style="swimlane;horizontal=1;startSize=30;html=1;whiteSpace=wrap;collapsible=0;childLayout=none;" value="Préstamo de un equipo en la biblioteca" vertex="1">
+      <mxGeometry height="470" width="1080" x="40" y="40" as="geometry" />
+    </mxCell>
+    <mxCell id="lane_estudiante" parent="pool" style="swimlane;horizontal=0;startSize=30;html=1;whiteSpace=wrap;collapsible=0;childLayout=none;" value="Estudiante" vertex="1">
+      <mxGeometry height="220" width="1080" y="30" as="geometry" />
+    </mxCell>
+    <mxCell id="start" parent="lane_estudiante" style="shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;perimeter=ellipsePerimeter;outline=standard;symbol=general;fillColor=#ffffff;strokeColor=#000000;" value="" vertex="1">
+      <mxGeometry height="40" width="40" x="70" y="90" as="geometry" />
+    </mxCell>
+    <mxCell id="start_label" parent="lane_estudiante" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;" value="Inicio" vertex="1">
+      <mxGeometry height="20" width="48" x="67" y="135" as="geometry" />
+    </mxCell>
+    <mxCell id="solicitar" parent="lane_estudiante" style="shape=mxgraph.bpmn.task;html=1;whiteSpace=wrap;rounded=1;fillColor=#ffffff;strokeColor=#000000;" value="Solicitar equipo" vertex="1">
+      <mxGeometry height="65" width="130" x="180" y="78" as="geometry" />
+    </mxCell>
+    <mxCell id="reservar" parent="lane_estudiante" style="shape=mxgraph.bpmn.task;html=1;whiteSpace=wrap;rounded=1;fillColor=#ffffff;strokeColor=#000000;" value="Reservar para otra fecha" vertex="1">
+      <mxGeometry height="65" width="165" x="760" y="130" as="geometry" />
+    </mxCell>
+    <mxCell id="fin_reserva" parent="lane_estudiante" style="shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;perimeter=ellipsePerimeter;outline=end;symbol=general;fillColor=#ffffff;strokeColor=#000000;strokeWidth=3;" value="" vertex="1">
+      <mxGeometry height="40" width="40" x="1000" y="142" as="geometry" />
+    </mxCell>
+    <mxCell id="fin_reserva_label" parent="lane_estudiante" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;" value="Reserva ofrecida" vertex="1">
+      <mxGeometry height="20" width="100" x="970" y="187" as="geometry" />
+    </mxCell>
+    <mxCell id="e1" edge="1" parent="lane_estudiante" source="start" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;" target="solicitar" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e7" edge="1" parent="lane_estudiante" source="reservar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;" target="fin_reserva" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="lane_auxiliar" parent="pool" style="swimlane;horizontal=0;startSize=30;html=1;whiteSpace=wrap;collapsible=0;childLayout=none;" value="Auxiliar" vertex="1">
+      <mxGeometry height="220" width="1080" y="250" as="geometry" />
+    </mxCell>
+    <mxCell id="verificar" parent="lane_auxiliar" style="shape=mxgraph.bpmn.task;html=1;whiteSpace=wrap;rounded=1;fillColor=#ffffff;strokeColor=#000000;" value="Verificar disponibilidad" vertex="1">
+      <mxGeometry height="65" width="150" x="380" y="75" as="geometry" />
+    </mxCell>
+    <mxCell id="gateway" parent="lane_auxiliar" style="shape=mxgraph.bpmn.gateway;html=1;whiteSpace=wrap;outline=none;symbol=exclusive;fillColor=#ffffff;strokeColor=#000000;" value="¿Disponible?" vertex="1">
+      <mxGeometry height="55" width="55" x="605" y="82" as="geometry" />
+    </mxCell>
+    <mxCell id="registrar" parent="lane_auxiliar" style="shape=mxgraph.bpmn.task;html=1;whiteSpace=wrap;rounded=1;fillColor=#ffffff;strokeColor=#000000;" value="Registrar préstamo" vertex="1">
+      <mxGeometry height="65" width="145" x="770" y="35" as="geometry" />
+    </mxCell>
+    <mxCell id="fin_prestamo" parent="lane_auxiliar" style="shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;verticalAlign=top;labelPosition=center;align=center;perimeter=ellipsePerimeter;outline=end;symbol=general;fillColor=#ffffff;strokeColor=#000000;strokeWidth=3;" value="" vertex="1">
+      <mxGeometry height="40" width="40" x="1000" y="47" as="geometry" />
+    </mxCell>
+    <mxCell id="fin_prestamo_label" parent="lane_auxiliar" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;" value="Préstamo registrado" vertex="1">
+      <mxGeometry height="20" width="110" x="965" y="92" as="geometry" />
+    </mxCell>
+    <mxCell id="e3" edge="1" parent="lane_auxiliar" source="verificar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;" target="gateway" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e4" edge="1" parent="lane_auxiliar" source="gateway" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;" target="registrar" value="Sí">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e6" edge="1" parent="lane_auxiliar" source="registrar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;" target="fin_prestamo" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e2" edge="1" parent="pool" source="solicitar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;" target="verificar" value="">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="e5" edge="1" parent="pool" source="gateway" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;" target="reservar" value="No">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>
