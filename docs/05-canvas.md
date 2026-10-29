@@ -1,1 +1,16 @@
+# 05 · Canvas del proyecto
 
+![Canvas del proyecto](../assets/canvas.png)
+
+## Bloques del Lean UX Canvas
+
+| # | Bloque | Respuesta del equipo |
+|---|---|---|
+| 1 | **Problema de negocio:** ¿qué le pasa a la organización con el proceso que eligieron? | Ineficiencia en la producción y oferta limitada de soportes para plantas que se adapten correctamente a materas pequeñas, generando desperdicio de material, estructuras inestables y falta de diferenciación en el mercado de accesorios decorativos y funcionales para el hogar. |
+| 2 | **Resultados de negocio:** ¿qué mejora en la organización si se resuelve? (tiempo, costos, errores, quejas, ventas) | Optimización del tiempo de fabricación e impresión 3D, reducción de costos en materia prima mediante estructuras huecas de 3 mm de grosor, disminución de devoluciones o quejas por inestabilidad, y aumento de ventas con un producto modular innovador y diferenciado[cite: 6, 7, 8]. |
+| 3 | **Usuarios:** ¿quién es el usuario? Cargo y área. | Amantes de la jardinería de interiores y usuarios de plantas en materas pequeñas que requieren un soporte estructural adecuado para el crecimiento de sus plantas. |
+| 4 | **Beneficios para el usuario:** ¿qué gana y qué dolor le quita? (sale del mapa de empatía) | Gana una estructura de 30 cm con un sistema de anclaje firme (aletas de 5-7 cm anti-desviación) que evita que el soporte se mueva o dañe las raíces[cite: 6, 8]. Le quita el dolor de usar tutores improvisados, inestables o de tamaño inadecuado, facilitando el guiado ordenado de los zarcillos gracias a su espaciado de 4-5 cm[cite: 6, 8]. |
+| 5 | **Soluciones:** mínimo 3 ideas que podrían resolver el problema. | 1. Fabricación de soportes modulares impresos en 3D (PLA/PETG) con torres principales y secundarias de acople perfecto (tolerancia de ±0.1 mm)[cite: 6, 7, 8].<br>2. Sistema de enrejado expandible con lianas interconectores modulares adaptables al crecimiento de la planta[cite: 6, 7, 8].<br>3. Diseño con base cónica y aletas de anclaje para inserción profunda y segura en la tierra de la matera[cite: 6, 8]. |
+| 6 | **Hipótesis:** copien la hipótesis de `docs/07-prototipo.md`. | Creemos que al implementar el soporte modular impreso en 3D ("Castle of Vines Support") con aletas anti-desviación y tolerancia de ±0.1 mm, lograremos mejorar la estabilidad y el crecimiento de las plantas en materas pequeñas, validando que el usuario prefiera un sistema modular expandible frente a los tutores tradicionales[cite: 6, 7, 8]. |
+| 7 | **Lo más importante por aprender primero:** lo que, si sale mal, hace que la solución no sirva. | Si el ajuste mecánico entre piezas (con tolerancia de ±0.1 mm) no ensambla de forma perfecta o si las aletas de anclaje de 5-7 cm no aportan la estabilidad suficiente en la tierra, la estructura se desarmará o se inclinará bajo el peso de la planta[cite: 6, 8]. |
+| 8 | **El menor trabajo para aprenderlo:** la prueba más sencilla con el usuario | Imprimir en 3D un prototipo a escala real (o una sección clave con las torres y los conectores) utilizando filamento PLA/PETG para evaluar directamente con el usuario el ensamblaje físico, la firmeza del anclaje en la matera y la facilidad para guiar las ramas[cite: 6, 7, 8]. |
