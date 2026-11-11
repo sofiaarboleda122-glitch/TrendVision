@@ -55,3 +55,77 @@ Para el lanzamiento de **Trendvision** (*Soporte modular inteligente para planta
 10. Hacemos clic en **Exportar**, elegimos el formato **.STL** y guardamos el archivo como `llavero-3d.stl`. Lo entregamos al FabLab junto con el color elegido.
 
 ![Elementos FabLab](../assets/fablab/foto-final.jpg)
+# 10 · Campaña de lanzamiento
+
+![Logo](../assets/campana/logo.png)
+
+## 1. Propósito de la campaña
+
+Trendvision es el panel de monitoreo que recibe las lecturas de sensores de temperatura, humedad ambiente y humedad del suelo de cada bloque de cultivo. Las muestra en tiempo real y envía alertas cuando un valor sale del rango óptimo para la flor. Con esta campaña queremos que el equipo comercial y los clientes de la empresa floricultora conozcan la solución y entiendan qué ganan con ella: dejar de registrar a mano las condiciones de los invernaderos y detectar a tiempo plagas, hongos o estrés hídrico para proteger la flor de calidad de exportación.
+
+## 2. A quién le hablamos
+
+- **Vendedores:** necesitan un mensaje sencillo y confiable para explicar que la flor viene de cultivos monitoreados de forma continua. Así pueden respaldar la calidad ante sus compradores.
+- **Clientes:** buscan flor de corte (rosas, claveles y crisantemos) con calidad constante, tanto en el mercado nacional como en exportación. Les transmitimos que cada bloque de cultivo se cuida con datos oportunos.
+
+## 3. Tono de comunicación
+
+Nuestro tono es **cercano y confiable**. Usamos frases cortas y un lenguaje de campo, sin tecnicismos innecesarios. Hablamos de cuidado, de anticiparse y de calidad, y evitamos las promesas exageradas.
+
+## 4. Nombre de la solución
+
+La solución se llama **Trendvision**. Combina *trend* (tendencia, el comportamiento de las variables del cultivo en el tiempo) y *vision* (ver, tener a la vista el estado de cada bloque).
+
+| Criterio | Evaluación | Cumple |
+|---|---|---|
+| Corto | Tiene once letras y dos sílabas fuertes. Se escribe, se dice y cabe en un sticker o en un ícono de aplicación sin esfuerzo. | Sí |
+| Recordable | Une dos palabras conocidas y se pronuncia igual en español e inglés. Su sonido es fluido y fácil de repetir en una conversación comercial. | Sí |
+| Asociado al beneficio | «Vision» remite a ver el cultivo en tiempo real, y «trend» a seguir su tendencia para anticipar anomalías. Esto resume el beneficio principal: detectar a tiempo. | Sí |
+
+**Nombre elegido: Trendvision.**
+
+## 5. Eslóganes
+
+1. Detecta a tiempo, cosecha calidad.
+2. Cada flor en su punto.
+3. **Tu cultivo siempre a la vista.** ← *Elegido*
+
+Elegimos el tercero porque expresa el beneficio central en pocas palabras, tiene un tono cercano y refuerza el significado del nombre. Con 29 caracteres, además, cabe bien en el logo y en los stickers.
+
+## 6. Identidad visual
+
+### Paleta de colores
+
+El verde es el color principal porque remite a la naturaleza, al cultivo y a la confianza.
+
+| Uso | Color | HEX |
+|---|---|---|
+| Principal (textos y contornos) | Verde bosque | `#1B5E20` |
+| Secundario (símbolo y acentos) | Verde hoja | `#66BB6A` |
+| Fondo | Blanco hoja | `#F7FAF5` |
+
+### Tipografía
+
+Usamos **Poppins**, una tipografía gratuita de Google Fonts. Sus formas redondeadas y su buena legibilidad refuerzan el tono cercano y confiable. Empleamos Poppins Bold para el nombre y Poppins Regular para el eslogan y los textos de apoyo.
+
+### Qué representa el logo
+
+El logo muestra un ojo que contiene una hoja como pupila. Representa la vigilancia constante del cultivo y el cuidado de la flor.
+
+![Logo](../assets/campana/logo.png)
+
+## 7. Stickers de lanzamiento
+
+Para el lanzamiento entregaremos a los asistentes, vendedores y clientes una hoja de **12 stickers de 5 × 5 cm**. Cada sticker lleva el logo, el nombre **Trendvision**, el eslogan «Tu cultivo siempre a la vista» y un **código QR** que lleva al prototipo: [https://trendvision27.netlify.app/](https://trendvision27.netlify.app/).
+
+- **Formato:** 12 stickers distribuidos en 3 columnas por 4 filas, con separación suficiente para recortarlos fácilmente.
+- **Colores:** fondo blanco hoja (`#F7FAF5`), textos en verde bosque (`#1B5E20`) y acentos en verde hoja (`#66BB6A`).
+- **Uso:** los asistentes pueden pegarlos en sus cuadernos, equipos o herramientas de trabajo. Al escanear el QR con el celular acceden directamente al prototipo.
+
+![Hoja de stickers](../assets/campana/hoja-stickers.png)
+
+## 8. Mensajes clave
+
+- **Para vendedores:** «Respalde cada pedido con cultivos monitoreados de forma continua».
+- **Para clientes:** «La flor que recibe se cuidó con datos, bloque por bloque».
+- **Para ambos:** «Tu cultivo siempre a la vista».
