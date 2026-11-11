@@ -1,1 +1,19 @@
+Mapa de calor de riesgos
+Cada riesgo se ubica según qué tan probable es y cuánto daño haría.
+ * Eje vertical (Qué tan probable es \to): Casi seguro, Probable, Posible, Poco probable, Rara vez.
+ * Eje horizontal (Daño si ocurre \to): Mínimo, Menor, Moderado, Mayor, Grave.
+Leyenda / Niveles de riesgo:
+ * Bajo: vigilar
+ * Medio: planear
+ * Alto: actuar pronto
+ * Crítico: actuar ya
+Riesgos del proyecto:
+ * R1: Falla de sensores y conectividad (Alto)
+ * R2: Acceso indebido o pérdida de datos (Alto)
+ * R3: Resistencia de operarios al registro digital (Alto)
+ * R6: Alertas mal calibradas o ignoradas (Alto)
+ * R4: Sobrecosto frente al presupuesto limitado (Bajo)
+ * R5: Tratamiento de datos sin autorización (Bajo)
+Nota al pie:
+Cada riesgo está donde se cruzan su probabilidad (hacia arriba, más probable) y su daño (hacia la derecha, más grave). Lo más rojo es la Falla de sensores y conectividad, que atenderemos primero. Sobrecosto y Tratamiento de datos están en verde: basta vigilarlos.
 
