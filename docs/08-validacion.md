@@ -81,4 +81,5 @@ Si se cumplen los tres criterios, consideramos validada la hipótesis. Si no, re
 
 ### Qué vamos a cambiar
 
-Video: [ENLACE]
+Video: https://youtu.be/7fl2IugNXkw?si=Srk1eopdLM1BW2ox 
+
