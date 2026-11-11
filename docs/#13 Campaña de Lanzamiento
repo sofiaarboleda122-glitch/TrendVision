@@ -1,1 +1,55 @@
+# Campaña de lanzamiento
 
+## 1. Punto de partida
+
+En TrendVision diseñamos una solución para el monitoreo del cultivo de flores de corte (rosas, claveles y crisantemos). Consiste en sensores con microcontrolador que miden temperatura, humedad ambiente y humedad del suelo en cada bloque de cultivo, una base de datos y un panel web que muestra las lecturas en tiempo real y envía alertas cuando un valor sale del rango óptimo. Con ella reemplazamos el registro manual en papel o Excel, que genera demoras y errores de transcripción y retrasa la reacción ante plagas, hongos o estrés hídrico.
+
+La campaña se dirige a las personas de la organización interesadas en el cuidado de las plantas: la administración, la jefatura del cultivo y el personal que recorre los invernaderos. Queremos transmitir un tono **cercano, confiable y creativo**.
+
+## 2. Nombre de la solución
+
+La solución se llama **«Soporte modular para plantas»**. Lo usamos tal cual en toda la campaña.
+
+### Evaluación del nombre
+
+| Criterio | ¿Cumple? | Justificación |
+|---|---|---|
+| Corto | Sí | Son cuatro palabras y 28 caracteres, una frase que se lee y se dice de un solo aliento. |
+| Recordable | Sí | Usa palabras de uso cotidiano y su estructura es clara: qué es (soporte), cómo está hecho (modular) y para qué (plantas). |
+| Asociado al beneficio | Sí | «Soporte» comunica acompañamiento en el cuidado, y «modular» refleja que la solución se instala bloque por bloque y crece con el cultivo. |
+
+## 3. Eslóganes
+
+| N.º | Eslogan | Caracteres |
+|---|---|---|
+| 1 | **Cuida cada planta, módulo a módulo** (elegido) | 34 |
+| 2 | Datos a tiempo, flores de calidad | 33 |
+| 3 | Tu cultivo, siempre bajo cuidado | 32 |
+
+**Eslogan elegido:** «Cuida cada planta, módulo a módulo». Es cercano porque habla de cuidado, refleja la idea modular del nombre y es fácil de recordar y de imprimir en formatos pequeños.
+
+## 4. Identidad visual
+
+### Paleta de colores
+
+| Color | HEX | Uso |
+|---|---|---|
+| Verde claro | `#4FB477` | Color principal: símbolo y nombre. Evoca las plantas y el cultivo sano. |
+| Azul claro | `#5AAFE0` | Color de apoyo: fondos, fichas y datos del panel. Transmite confianza y agua. |
+| Naranja | `#F58B3A` | Color de acento: eslogan, módulos y alertas. Aporta energía y creatividad. |
+
+### Tipografía
+
+**Poppins** (Google Fonts, licencia libre). Sus formas redondeadas y geométricas transmiten cercanía y claridad. Usamos Poppins Bold para títulos y Poppins Regular para textos.
+
+## 5. Logo
+
+El logo combina una hoja verde con tres bloques naranja debajo. La hoja representa el cuidado de las plantas, y los bloques, los módulos de monitoreo que se suman a cada sección del cultivo.
+
+![Logo](../assets/campana/logo.png)
+
+## 6. Stickers de lanzamiento
+
+Para el lanzamiento preparamos una hoja de 12 stickers de 5 × 5 cm, organizados en 3 columnas y 4 filas. Cada sticker lleva el logo, el nombre «Soporte modular para plantas» y el eslogan «Cuida cada planta, módulo a módulo», con los colores de la paleta. Los entregamos a los asistentes como recordatorio de la solución para que los peguen en sus herramientas de trabajo, cuadernos o equipos.
+
+![Hoja de stickers](../assets/campana/hoja-stickers.png)
